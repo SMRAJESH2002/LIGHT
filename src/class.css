@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.im1{
+    height: 500px;
+    width: 500px;
+}
+.im2{
+    height: 500px;
+    width: 500px;
+}
+.b1{
+    height: 50px;
+    width: 100px;
+    font-size:30px;
+    background-color: black;
+    border: 2px solid ;
+    color: white;
+}

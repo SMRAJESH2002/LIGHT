@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    height: 300px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 18px;
+    box-shadow: 2px 2px rgb(46, 46, 46);
+    padding: 30px;
+    margin-top:170px;
+    background-color: wheat;
+}
+.btn{
+    font-size:40px;
+    background-color: red;
+    font-style: oblique;
+    border: 2px solid red;
+    margin-top:50px;
+    color: white;
+    border-radius: 13px;
+    padding: 10px;
+}
+.box h1{
+    font-size: 40px;
+    font-weight: 500px;
+    color: red;
+margin-top: 20px;
+}
+.na{
+    font-size: 20px;
+}
+.icon{
+    font-size: 30px;
+}
+.bc{
+    background-position: 10px;
+    opacity:1.0;
+}
